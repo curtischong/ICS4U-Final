@@ -1,0 +1,12 @@
+#Greenfoot properties
+#Mon Sep 19 08:42:41 EDT 2016
+class.CatEnemy.image=turtle2.png
+class.CatEnemy.superclass=greenfoot.Actor
+mainWindow.width=850
+class.MyWorld.superclass=greenfoot.World
+project.charset=UTF-8
+version=2.8.0
+world.lastInstantiated=MyWorld
+mainWindow.y=40
+mainWindow.x=40
+mainWindow.height=600
