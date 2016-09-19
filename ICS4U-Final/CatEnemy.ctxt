@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=CatEnemy
-comment0.text=\n\ Write\ a\ description\ of\ class\ CatEnemy\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment0.text=\n\ One\ of\ the\ Enemies\ in\ the\ Game,\ trying\ to\ prevent\ the\ player\ from\ advancing\!\n\ \n\ @author\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
 comment1.params=
 comment1.target=void\ act()
 comment1.text=\n\ Act\ -\ do\ whatever\ the\ CatEnemy\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
